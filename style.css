@@ -1,0 +1,39 @@
+#low {
+
+    background-color: green;
+    font-weight: bolder;
+    color: white;
+
+}
+
+#moderate {
+
+    background-color: yellow;
+    font-weight: bolder;
+    color: white;
+
+}
+
+#high {
+
+    background-color: orange;
+    font-weight: bolder;
+    color: white;
+
+}
+
+#very-high {
+
+    background-color: red;
+    font-weight: bolder;
+    color: white;
+
+}
+
+#extreme {
+
+    background-color:purple;
+    font-weight: bolder;
+    color: white;
+
+}
