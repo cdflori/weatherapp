@@ -12,9 +12,9 @@ Below are screen shots of what was working until last AJAX call was made.
 
 ### User Will See Weather Dashboard
 
-![Weather Dashboard](assets/weatherdb.png)
+![Weather Dashboard](Assets/weatherdb.png)
 
 ### User Will Enter City And See Displayed Weather
 
-![City Search](assets/citysearch.png)
+![City Search](Assets/citysearch.png)
 
